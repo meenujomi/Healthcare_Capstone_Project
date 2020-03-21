@@ -39,5 +39,5 @@ The ratings directly influence the choice of hospitals made by consumers and may
 ## Details of files given
 - Healthcare Capstone Project_Final.ipynb : The python file showing coding and data analysis
 - Capstone Project_Star Rating.pdf : Presentation showing conclusion
-- Capston+Prj_Plan.pdf: The basic plan on how the project is done
+- Capston+Prj_Plan.pdf : The basic plan on how the project is done
 - https://data.medicare.gov/data/archives/hospital-compare (Hospital_Revised_FlatFiles_20161110) : Data worked on
