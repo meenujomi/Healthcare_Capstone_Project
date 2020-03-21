@@ -35,7 +35,7 @@ The ratings directly influence the choice of hospitals made by consumers and may
 -- Sum of Squared Distances
 -- Analysis of clusters formed
 -- Plotting
--- Recommendations for Evanston Hospital
+- Recommendations for Evanston Hospital
 ## Details of files given
 - Healthcare Capstone Project_Final.ipynb : The python file showing coding and data analysis
 - Capstone Project_Star Rating.pdf : Presentation showing conclusion
